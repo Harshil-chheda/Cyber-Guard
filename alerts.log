@@ -1,0 +1,4 @@
+2026-03-28 11:36:27 [ALERT] SSH brute-force detected from 192.168.0.77
+2026-03-28 12:25:22 [ALERT] SSH brute-force detected from 192.168.0.77
+2026-03-28 12:29:49 [ALERT] Port scan detected from 192.168.0.77
+2026-03-28 12:29:49 [ALERT] Port scan detected from 51.89.42.215
